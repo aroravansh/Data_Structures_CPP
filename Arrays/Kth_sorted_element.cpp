@@ -60,5 +60,5 @@ int main() {
 	cin>>k;
 	merge_sort(arr,0,n-1);    //sorting the array using inbuilt sort fn
 	cout<<"Kth sorted number of array is: "<<arr[k-1]<<endl;   //output
-	return 0; 
+	return 0;
 }
