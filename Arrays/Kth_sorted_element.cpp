@@ -39,7 +39,7 @@ void merge(int *arr, int low, int high, int mid)
     }
     while (j <= high) {
         c[k] = arr[j];
-        k++;
+        k++; 
         j++;
     }
     for (i = low; i < k; i++)  {
