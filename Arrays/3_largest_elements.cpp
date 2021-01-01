@@ -1,7 +1,8 @@
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
-
+// Basic approach would have been sorting the array first and then printing the last 3 elements of the array.
+// Though, that approach takes O(nLogn) time cause of sorting making this the better way
 int main() {
 	// your code goes here
 	int n; //size of array
@@ -30,6 +31,6 @@ int main() {
 	    else if(arr[i]>l3)
 	     l3=arr[i];
 	}
-	cout<<"Three largest elements are "<<l1<<" , "<<l2<<" , "<<l3<<endl;
+	cout<<"Three largest elements are "<<l1<<" , "<<l2<<" , "<<l3<<endl;    // Output
 	return 0;
 }
