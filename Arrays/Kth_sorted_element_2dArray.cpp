@@ -33,7 +33,7 @@ int kthSmallest(vector < vector<int> > mat,int k)
         {
             while (j >= 0 && mat[i][j] > mid) 
                 j--;
-                
+               
             count += (j + 1);
         }
         
