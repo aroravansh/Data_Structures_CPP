@@ -1,5 +1,5 @@
 #include <iostream>
-#include <bits/stdc++.h>
+#include <climits>
 using namespace std;
 // Basic approach would have been sorting the array first and then printing the last 3 elements of the array.
 // Though, that approach takes O(nLogn) time cause of sorting making this the better way
