@@ -5,8 +5,8 @@
 * Stacks
 * Queues
 * Trees
-* Graphs
-Other concepts which will be covered:
+* Graphs 
+## Other concepts which will be covered:
 * Recursion and Backtracking
 * Hashing
 * Dynamic Programming
