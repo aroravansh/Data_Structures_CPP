@@ -27,7 +27,7 @@ int main() {
 	cout<<"Array: ";
 	for(int i=0;i<n;i++)
 	{
-	    cout<<a[i]<<" ";    //output
+	    cout<<a[i]<<" ";    //Output
 	}
 	cout<<endl;
 	cout<<"Index: ";
