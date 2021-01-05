@@ -8,7 +8,7 @@ int main() {
 	int a[n];   //array given
 	for(int i=0;i<n;i++)
 	{
-	    cin>>a[i];
+	    cin>>a[i];     //input
 	}
     int k =0;
 	for(int i=0;i<n;i++)
