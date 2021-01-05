@@ -9,7 +9,8 @@
 ## Other concepts which will be covered:
 * Searching 
 * Sorting
-* Recursion and Backtracking
+* Recursion 
+* Backtracking
 * Hashing
 * Dynamic Programming
 * Bit Manupilation
