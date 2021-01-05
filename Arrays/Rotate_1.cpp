@@ -18,7 +18,7 @@ int main() {
     arr[n-1] = c;     //for last element
     for(int i=0;i<n;i++)
     {
-        cout<<arr[i]<<" ";      //output
+        cout<<arr[i]<<" ";      //Output
     }
 	return 0;
 }
