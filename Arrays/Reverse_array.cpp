@@ -7,7 +7,7 @@ int main() {
 	cin>>n;
 	int arr[n];    //array of size n
     for(int i=0;i<n;i++)
-    {
+    { 
         cin>>arr[i];    //input
     }
     int j=n-1;     //acting as a pointer
