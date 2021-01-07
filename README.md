@@ -8,8 +8,7 @@
 * Graphs 
 ## Other concepts which will be covered:
 * Searching and Sorting
-* Recursion 
-* Backtracking
+* Recursion and Backtracking
 * Hashing
 * Dynamic Programming
 * Bit Manupilation
