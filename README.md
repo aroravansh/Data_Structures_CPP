@@ -7,8 +7,7 @@
 * Trees
 * Graphs 
 ## Other concepts which will be covered:
-* Searching 
-* Sorting
+* Searching and Sorting
 * Recursion 
 * Backtracking
 * Hashing
