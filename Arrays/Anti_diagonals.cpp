@@ -30,7 +30,7 @@ int main() {
 	    }
 	}
 	int x = (2*n)-1;
-	vector<vector<int>> ans(x);      //resulting vector
+	vector<vector<int>> ans(x);      //resulting vector 
 	for(int i=0;i<n;i++)
 	{
 	    for(int j=0;j<n;j++)
