@@ -1,6 +1,6 @@
-<h1>Arrays
-<h2>Array Programs in CPP
-<h3>Topics covered are:
+# Arrays
+## Array Programs in CPP
+### Topics covered are:
   * Array Rotation
   * Array Rearrangement
   * Array Simulation
