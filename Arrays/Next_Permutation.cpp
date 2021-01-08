@@ -15,7 +15,7 @@ Input 2:
     A = [3, 2, 1]
 Output 2:
     [1, 2, 3]
-Input 3:
+Input 3: 
     A = [1, 1, 5]
 Output 3:
     [1, 5, 1]
