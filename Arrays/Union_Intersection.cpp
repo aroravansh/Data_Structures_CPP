@@ -15,7 +15,7 @@ int main() {
     }
     for(int i=0;i<n;i++)
     {
-        cin>>arr2[i];    //input array 2
+        cin>>arr2[i];    //input array 2 
     }
     int i = 0, j = 0; 
     cout<<"Union: ";
