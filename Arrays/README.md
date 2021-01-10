@@ -5,3 +5,4 @@
   * Array Rearrangement
   * Array Simulation
   * Array Order Statistics
+  * Array Math
