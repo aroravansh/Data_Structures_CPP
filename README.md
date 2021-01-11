@@ -10,7 +10,7 @@
 * Searching and Sorting
 * Recursion and Backtracking
 * Hashing
-* Dynamic Programmin
+* Dynamic Programming
 * Bit Manupilation
 
 
