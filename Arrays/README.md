@@ -2,7 +2,7 @@
 ## Array Programs in CPP
 ### Topics covered are:
   * Array Rotation
-  * Array Rearrangement
+  * Array Rearrangemen
   * Array Simulation
   * Array Order Statistics
   * Array Math
