@@ -34,7 +34,7 @@ int main() {
             if (arr[j] > arr[i])
                 m2 = max(m2, arr[j]);
         if(m1 && m2)
-             sum=max(sum,m1+arr[i]+m2);      // store maximum answer
+             sum=max(sum,m1+arr[i]+m2);      // store maximum answer 
     }
 	cout<<"Max sum is "<<sum<<endl;
 	return 0;
