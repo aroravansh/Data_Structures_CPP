@@ -8,7 +8,7 @@ Example Input
 Input 1:
  A = [5, -2, 3 , 1, 2]
  B = 3
-Input 2:
+Input 2: 
  A = [1, 2]
  B = 1
 Example Output
