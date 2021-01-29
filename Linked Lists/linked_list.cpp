@@ -1,6 +1,19 @@
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
+/*
+C++ Program on basics of linked list. A menu type program which includes all basic functions to be performed in linked list
+Diff operations are:
+1. Insertion
+  a. Insertion at begnning of the linked list
+  b. Insertion at the end of the linked list
+  c. Insertion at a given position of the linked list
+2. Deletion
+  a. Deletion at begnning of the linked list
+  b. Deletion at the end of the linked list
+  c. Deletion of a given node of the linked list
+3. Traversal of the linked list
+*/
 class Node
 {
 public:
